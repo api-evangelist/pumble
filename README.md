@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pumble is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pumble.com/
+Pumble is a free business communication tool that offers team chat, voice calls, and file sharing in a single platform. It is designed for small to medium-sized businesses to improve internal collaboration with features like channels, direct messages, integrations, and searchable message history. The service emphasizes simplicity, security, and cross‑platform availability, supporting web, desktop, and mobile clients.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pumble.com/)
+- [Getting started](https://pumble.com/help/getting-started/)
+- [Pricing](https://pumble.com/pricing)
+- [Support](https://pumble.com/help/)
+- [Changelog](https://pumble.com/help/whats-new/)
+- [Blog](https://pumble.com/blog/)
+- [Security](https://security.cake.com/)
+- [Compliance](https://cake.com/security)
+- [Status](https://status.pumble.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pumble/](https://apis.io/providers/pumble/).
